@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roburlion
 - 👀 I’m interested in overcoming real world business challenges with code and technology.
-- 🌱 I’m currently learning Python, Flask, and the Heroku plaform.
+- 🌱 I’m currently learning Python, Django, and Docker.
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 
 
